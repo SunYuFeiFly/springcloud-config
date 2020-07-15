@@ -1,1 +1,2 @@
-name = config-dev
+config: 
+  name: config-prod
